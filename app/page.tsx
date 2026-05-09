@@ -1,0 +1,1 @@
+"use client";\nimport SolutionCalculator from "../components/SolutionCalculator";\nexport default function Page() {\n  return <SolutionCalculator />;\n}\n
